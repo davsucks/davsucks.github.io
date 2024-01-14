@@ -1,0 +1,4 @@
+fileignoreconfig:
+- filename: Gemfile.lock
+  checksum: 4dbf1a71267ec92628e411b9e403d1176d393ea1050b6704ba79083571e8ea9b
+version: ""
